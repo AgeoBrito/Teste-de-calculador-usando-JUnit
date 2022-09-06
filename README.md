@@ -7,7 +7,7 @@ Eclipse é fundamental para o projeto pois a ferramenta abrange classe JUnit fac
 # :rocket: Objetivo.
 * Testar e desevolver as aplicações evitando erros, principalmente para o teste de Cliente
 
-# Acesso da Aplicação.
+# :flying_saucer: Acesso da Aplicação.
 Com o Eclipse instalado, apenas abra a aplicação. Altera a codificação para UTF-8 caso em seu Workspace esteja em Latin-1 
 
 # Facens ADS-4S_2022
